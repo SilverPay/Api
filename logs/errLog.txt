@@ -1,0 +1,6 @@
+20230823	17:58:41	c7857d8b-e464-4aca-8fe9-e9334ef8e702	Error:Not allowed by CORS
+20230823	17:58:41	03c61ae1-0a78-45e3-91ea-b76ea54f9737	Error:Not allowed by CORS
+20230823	18:30:01	06bfdee3-a438-4c4e-94ee-df53e542516e	Error:ENOENT: no such file or directory, stat 'C:\first-app\views\subdir\index.html'
+20230823	18:30:01	41f3f47b-a41f-460a-ba51-66e736a0c0f5	Error:ENOENT: no such file or directory, stat 'C:\first-app\views\subdir\index.html'
+20230824	12:47:11	ffcdebd4-5b2e-44b5-bb20-03a9a5af576b	SyntaxError:Unexpected token 1 in JSON at position 0
+20230825	19:34:36	6220aa48-5ae7-462d-83e4-2e3d11eee149	TypeError:Cannot read properties of undefined (reading 'username')

@@ -1,0 +1,4 @@
+
+
+//mongodb connection string
+mongodb+srv://<username>:<password>@cluster0.rkljslh.mongodb.net/?retryWrites=true&w=majority
