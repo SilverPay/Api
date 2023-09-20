@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  firstapp:
+    image: firstapp
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 3500:3500
